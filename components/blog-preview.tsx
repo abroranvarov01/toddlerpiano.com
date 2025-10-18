@@ -54,10 +54,7 @@ export function BlogPreview() {
                 <p className="text-muted-foreground leading-relaxed font-[family-name:var(--font-nunito)]">
                   {post.excerpt}
                 </p>
-                <Button variant="ghost" className="group/btn">
-                  Read More
-                  <ArrowRight className="ml-2 w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
-                </Button>
+                
               </div>
             </article>
           ))}

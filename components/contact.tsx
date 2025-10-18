@@ -58,7 +58,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="font-bold mb-1">Phone</div>
-                    <div className="text-muted-foreground font-[family-name:var(--font-nunito)]">+1 (800) 123-4567</div>
+                    <div className="text-muted-foreground font-[family-name:var(--font-nunito)]">+1 281-283-9995</div>
                   </div>
                 </div>
 
@@ -68,7 +68,9 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="font-bold mb-1">Address</div>
-                    <div className="text-muted-foreground font-[family-name:var(--font-nunito)]">New York, NY, USA</div>
+                    <div className="text-muted-foreground font-[family-name:var(--font-nunito)]">
+                      2483 Richland Avenue, Houston, Texas 77062, United States
+                    </div>
                   </div>
                 </div>
               </div>

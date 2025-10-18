@@ -1,5 +1,6 @@
 import { Music2, Drum, Guitar, Piano } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Link from "next/link"
 
 const categories = [
   {
@@ -66,8 +67,8 @@ export function ProductCategories() {
               </p>
               <p className="text-center text-sm font-semibold text-foreground/70">{category.count}</p>
               <div className="mt-6 flex justify-center">
-                <Button variant="outline" className="rounded-full bg-transparent">
-                  View All
+                <Button variant="outline" className="rounded-full bg-transparent" asChild>
+                  <Link href="/reviews">View All</Link>
                 </Button>
               </div>
             </div>

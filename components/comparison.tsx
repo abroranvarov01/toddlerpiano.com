@@ -1,5 +1,6 @@
 import { Check, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Link from "next/link"
 
 const products = [
   {
@@ -68,7 +69,6 @@ export function Comparison() {
 
               <div className="text-center mb-8 mt-4">
                 <h3 className="text-2xl font-bold mb-4">{product.name}</h3>
-                
               </div>
 
               <ul className="space-y-4 mb-8">
@@ -88,8 +88,8 @@ export function Comparison() {
                 ))}
               </ul>
 
-              <Button className="w-full rounded-full" variant={product.popular ? "default" : "outline"}>
-                Choose
+              <Button asChild className="w-full rounded-full" variant={product.popular ? "default" : "outline"}>
+                <Link href="/reviews">Choose</Link>
               </Button>
             </div>
           ))}

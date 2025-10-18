@@ -78,10 +78,10 @@ export default function ContactPage() {
                     <div>
                       <div className="font-bold mb-1">Phone</div>
                       <a
-                        href="tel:+18001234567"
+                        href="tel:+12812839995"
                         className="text-muted-foreground hover:text-secondary transition-colors font-[family-name:var(--font-nunito)]"
                       >
-                        +1 (800) 123-4567
+                        +1 281-283-9995
                       </a>
                     </div>
                   </div>
@@ -93,9 +93,9 @@ export default function ContactPage() {
                     <div>
                       <div className="font-bold mb-1">Address</div>
                       <div className="text-muted-foreground font-[family-name:var(--font-nunito)]">
-                        123 Music Street
+                        2483 Richland Avenue
                         <br />
-                        New York, NY 10001
+                        Houston, Texas 77062
                         <br />
                         United States
                       </div>
