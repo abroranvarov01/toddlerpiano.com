@@ -17,73 +17,11 @@ export function Footer() {
           </div>
 
           {/* Links */}
-          <div>
-            <h4 className="font-bold mb-4">Categories</h4>
-            <ul className="space-y-2 font-[family-name:var(--font-nunito)]">
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Pianos
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Xylophones
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Drums
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Guitars
-                </a>
-              </li>
-            </ul>
-          </div>
+          
 
-          <div>
-            <h4 className="font-bold mb-4">Information</h4>
-            <ul className="space-y-2 font-[family-name:var(--font-nunito)]">
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Shipping
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Warranty
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Contact
-                </a>
-              </li>
-            </ul>
-          </div>
+          
 
-          <div>
-            <h4 className="font-bold mb-4">Social Media</h4>
-            <div className="flex gap-3">
-              {[
-                { icon: Instagram, color: "hover:text-primary" },
-                { icon: Facebook, color: "hover:text-secondary" },
-                { icon: Youtube, color: "hover:text-accent" },
-                { icon: Twitter, color: "hover:text-chart-4" },
-              ].map((social, index) => (
-                <a key={index} href="#" className={`p-3 bg-muted rounded-2xl ${social.color} transition-colors`}>
-                  <social.icon className="w-5 h-5" />
-                </a>
-              ))}
-            </div>
-          </div>
+          
         </div>
 
         <div className="border-t border-border pt-8 text-center text-muted-foreground font-[family-name:var(--font-nunito)]">
