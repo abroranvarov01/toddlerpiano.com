@@ -379,7 +379,7 @@ export default function ProductReviewPage({ params }: { params: { slug: string }
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             {/* Product Image */}
             <div className="relative aspect-square rounded-3xl overflow-hidden bg-gradient-to-br from-pink/10 via-blue/10 to-accent/10">
-              <Image src={product.image || "/placeholder.svg"} alt={product.name} fill className="object-cover" />
+              <Image src={product.image || "/placeholder.svg"} alt={product.name} fill className="" />
             </div>
 
             {/* Product Info */}

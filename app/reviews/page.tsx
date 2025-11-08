@@ -250,7 +250,7 @@ export default function ReviewsPage() {
                 className="group bg-card rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
               >
                 <div className="relative h-64 bg-gradient-to-br from-pink/10 via-blue/10 to-accent/10">
-                  <Image src={product.image || "/placeholder.svg"} alt={product.name} fill className="object-cover" />
+                  <Image src={product.image || "/placeholder.svg"} alt={product.name} fill className="object-contain" />
                 </div>
 
                 <div className="p-6 space-y-4">
