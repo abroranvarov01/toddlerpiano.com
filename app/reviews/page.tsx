@@ -11,7 +11,7 @@ const products = [
     name: "MukikiM Rock and Roll It Play by Color Piano",
     slug: "mukikim-rock-and-roll-piano", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/81r69l8pPeL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/MukikiM-Rock-Roll-play-color/dp/B071HPPSB8",
+    amazonUrl: "https://amzn.to/4hORAbp",
     rating: 4.4,
     reviews: 225,
     price: "$59.99",
@@ -23,7 +23,7 @@ const products = [
     name: "Fisher-Price Classic Infant Trio Gift Set",
     slug: "fisher-price-infant-trio", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/61gg-o7oPML._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Fisher-Price-Classic-Infant-Trio/dp/B07JGTNRFK",
+    amazonUrl: "https://amzn.to/4ow0ltu",
     rating: 4.8,
     reviews: 1234,
     price: "$29.99",
@@ -34,7 +34,7 @@ const products = [
     name: "Stoie's Musical Instruments Set for Toddlers",
     slug: "stoies-musical-instruments-set", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/71cPoZ9534L._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Instruments-Toddlers-Xylophone-Tambourine-Educational/dp/B0C1YDMVY9",
+    amazonUrl: "https://amzn.to/47woXfE",
     rating: 4.6,
     reviews: 587,
     price: "$32.99",
@@ -45,7 +45,7 @@ const products = [
     name: "Keyboard & Xylophone Musical Instrument Set",
     slug: "keyboard-xylophone-set", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/71sU6VdZH2L._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Keyboard-Xylophone-Instrument-Learning-Developmental/dp/B07WNJY42C",
+    amazonUrl: "https://amzn.to/3Ls6acI",
     rating: 4.3,
     reviews: 412,
     price: "$39.99",
@@ -56,7 +56,7 @@ const products = [
     name: "Loog Mini Acoustic Guitar for Children",
     slug: "loog-mini-acoustic-guitar", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/714ZXMfWbXL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Loog-Acoustic-Guitar-Children-Beginners/dp/B072B9V2KB",
+    amazonUrl: "https://amzn.to/4oyvVH1",
     rating: 4.7,
     reviews: 896,
     price: "$89.00",
@@ -67,7 +67,7 @@ const products = [
     name: "Electric Drum Set with Recording",
     slug: "electric-drum-set", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/71tKXDqEnIL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Electric-Electronic-Practice-Recording-Speaker/dp/B0B2JFZYZK",
+    amazonUrl: "https://amzn.to/3LuOv47",
     rating: 4.5,
     reviews: 321,
     price: "$69.99",
@@ -78,7 +78,7 @@ const products = [
     name: "Fisher-Price Deluxe Kick & Play Piano Gym",
     slug: "fisher-price-piano-gym", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/81CXYaraFDL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Fisher-Price-Playmat-Musical-Learning-Content/dp/B0CBQXD4PG",
+    amazonUrl: "https://amzn.to/4p3cE0c",
     rating: 4.8,
     reviews: 2456,
     price: "$49.99",
@@ -89,7 +89,7 @@ const products = [
     name: "TAIMASI Musical Instruments Set",
     slug: "taimasi-instruments-set", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/817-cDUVLWL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/TAIMASI-Instruments-Percussion-Tambourine-Xylophone/dp/B07W4H8N39",
+    amazonUrl: "https://amzn.to/3JAmpE3",
     rating: 4.5,
     reviews: 672,
     price: "$29.99",
@@ -100,7 +100,7 @@ const products = [
     name: "BlueWood Triangle Foldable Climbing Montessori",
     slug: "bluewood-climbing-triangle", // Added slug for routing
     image: "https://m.media-amazon.com/images/I/716Wr3MdeKL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/BlueWood-Triangle-Foldable-Climbing-Montessori/dp/B0CT5GC65G",
+    amazonUrl: "https://amzn.to/47t1dJe",
     rating: 4.6,
     reviews: 134,
     price: "$129.99",

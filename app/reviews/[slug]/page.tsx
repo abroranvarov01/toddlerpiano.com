@@ -12,7 +12,7 @@ const products = {
     rating: 4.2,
     reviewCount: 127,
     image: "https://m.media-amazon.com/images/I/81r69l8pPeL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/MukikiM-Rock-Roll-play-color/dp/B071HPPSB8",
+    amazonUrl: "https://amzn.to/4hORAbp",
     description:
       "The MUKIKIM Rock and Roll It Rainbow Piano is a portable, flexible 49-key silicone piano keyboard perfect for kids and beginners. It includes a play-by-color songbook, making it easy to learn and fun to play anywhere.",
     features: [
@@ -65,7 +65,7 @@ const products = {
     rating: 4.8,
     reviewCount: 98,
     image: "https://m.media-amazon.com/images/I/61gg-o7oPML._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Fisher-Price-Classic-Infant-Trio/dp/B07JGTNRFK",
+    amazonUrl: "https://amzn.to/4ow0ltu",
     description:
       "The Fisher-Price Classic Infant Trio includes a xylophone with 8 colorful metal keys, designed to produce clear, tuned notes. Made with safe, durable materials, it fosters musical creativity and motor skills in young children.",
     features: [
@@ -109,7 +109,7 @@ const products = {
     rating: 4.7,
     reviewCount: 85,
     image: "https://m.media-amazon.com/images/I/71cPoZ9534L._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Instruments-Toddlers-Xylophone-Tambourine-Educational/dp/B0C1YDMVY9",
+    amazonUrl: "https://amzn.to/47woXfE",
     description:
       "This colorful xylophone set includes vibrant, tuned metal keys and other percussion instruments, perfect for toddlers. It encourages musical learning and coordination with its bright, engaging design.",
     features: [
@@ -144,7 +144,7 @@ const products = {
     rating: 4.5,
     reviewCount: 112,
     image: "https://m.media-amazon.com/images/I/71sU6VdZH2L._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Keyboard-Xylophone-Instrument-Learning-Developmental/dp/B07WNJY42C",
+    amazonUrl: "https://amzn.to/3Ls6acI",
     description:
       "This 3-in-1 musical toy features a piano keyboard, xylophone, and drum set, designed for toddlers to explore various sounds and rhythms. Perfect for fostering creativity and motor skills.",
     features: [
@@ -188,7 +188,7 @@ const products = {
     rating: 4.6,
     reviewCount: 76,
     image: "https://m.media-amazon.com/images/I/714ZXMfWbXL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Loog-Acoustic-Guitar-Children-Beginners/dp/B072B9V2KB",
+    amazonUrl: "https://amzn.to/4oyvVH1",
     description:
       "The Loog Mini Acoustic Guitar is designed for kids, with 3 nylon strings for easy playing. It's perfect for introducing children to string instruments and includes learning materials.",
     features: [
@@ -223,7 +223,7 @@ const products = {
     rating: 4.5,
     reviewCount: 112,
     image: "https://m.media-amazon.com/images/I/71tKXDqEnIL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Electric-Electronic-Practice-Recording-Speaker/dp/B0B2JFZYZK",
+    amazonUrl: "https://amzn.to/3LuOv47",
     description:
       "This Electric Kids Drum Set features 9 pads, light-up drumsticks, and a pedal, offering realistic drumming with adjustable volume and MIDI support for beginners.",
     features: [
@@ -258,7 +258,7 @@ const products = {
     rating: 4.9,
     reviewCount: 64,
     image: "https://m.media-amazon.com/images/I/81CXYaraFDL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/Fisher-Price-Playmat-Musical-Learning-Content/dp/B0CBQXD4PG",
+    amazonUrl: "https://amzn.to/4p3cE0c",
     description:
       "Fisher-Price Baby Maracas are perfect for little hands, with soft-grip handles and gentle rattling sounds to encourage rhythm and motor skill development.",
     features: [
@@ -293,7 +293,7 @@ const products = {
     rating: 4.8,
     reviewCount: 143,
     image: "https://m.media-amazon.com/images/I/817-cDUVLWL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/TAIMASI-Instruments-Percussion-Tambourine-Xylophone/dp/B07W4H8N39",
+    amazonUrl: "https://amzn.to/3JAmpE3",
     description:
       "This comprehensive musical set includes a xylophone, tambourine, maracas, and more, offering endless musical fun for kids. Perfect for group play and fostering creativity.",
     features: [
@@ -328,7 +328,7 @@ const products = {
     rating: 4.9,
     reviewCount: 41,
     image: "https://m.media-amazon.com/images/I/716Wr3MdeKL._AC_SX679_.jpg",
-    amazonUrl: "https://www.amazon.com/BlueWood-Triangle-Foldable-Climbing-Montessori/dp/B0CT5GC65G",
+    amazonUrl: "https://amzn.to/47t1dJe",
     description:
       "The BlueWood Pikler Triangle Set is a 7-in-1 Montessori climbing set with a triangle, arch, ramp, and ladder. It promotes physical development and creativity in toddlers.",
     features: [
